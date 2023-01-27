@@ -13,7 +13,7 @@
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-Sempre em busca de mais conhecimento na área da tecnologia, buscando evoluir e progredir ao primeiro emprego a cada dia que passa.
+Sempre em busca de mais conhecimento na área da tecnologia, que ajudam no desenvolvimento da apliação, buscando evoluir e progredir
 
 ## Estudando atualmente:
 - React Native
