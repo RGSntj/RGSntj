@@ -1,4 +1,4 @@
-## Olá eu sou o Rodrigo Gomes ✌️👋
+## Hi! I'am Rodrigo Gomes ✌️👋
 ### Desenvolvedor Mobile 📱
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rg__system/)
@@ -17,5 +17,4 @@ Sempre em busca de mais conhecimento na área da tecnologia, buscando evoluir e 
 ## Estudando atualmente:
 - React Native
 - TypeScript
-- Python
 - CSS3
