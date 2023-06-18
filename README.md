@@ -15,11 +15,4 @@
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
 
-busca de mais conhecimento na área da tecnologia, que ajudam no desenvolvimento de aplicações mobile, buscando evoluir e progredir sempre !! 
-
-## Estudando atualmente:
-- React Native
-- TypeScript
-- NodeJs
-- Prisma
-- Fastify
+### busca de mais conhecimento na área da tecnologia, que ajudam no desenvolvimento de aplicações mobile, buscando evoluir e progredir sempre !!
