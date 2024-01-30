@@ -2,7 +2,7 @@
 ### Desenvolvedor Mobile 📱
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jovem_rg/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-s2-2a5ab7222/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-gomes-programmer/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RGSntj&show_icons=true&theme=dracula)
 
