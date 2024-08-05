@@ -27,7 +27,7 @@
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
 
-# Estudando atualmente 📕📚
+# Estudando atualmente 📚
 <table>
   <tr>
     <td align="center">
@@ -38,6 +38,9 @@
     </td>
      <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="90" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" width="90" />
     </td>
   </tr>
 </table>
