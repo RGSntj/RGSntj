@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  <h2>Desenvolvedor Front end 💻</h2>
+  <h2>Desenvolvedor Fullstack Junior 💻</h2>
   <p>Tenho 19 anos e sou apaixonado por programação. Desde cedo, mergulhei no mundo da tecnologia e, desde então, estou sempre em busca de novos conhecimentos e habilidades. Adoro desafios e estou constantemente estudando para me manter atualizado e aprimorar minhas competências. Aqui no meu GitHub, você encontrará uma variedade de projetos nos quais tenho trabalhado. Sinta-se à vontade para explorar e, se tiver alguma sugestão ou quiser colaborar, estou sempre aberto a novas ideias e parcerias!</p>
 </div>
 
@@ -34,21 +34,8 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgress](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
-
-# Estudando atualmente 📚
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" width="100" />
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain-wordmark.svg" width="100" />
-    </td>
-     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="90" />
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" width="90" />
-    </td>
-  </tr>
-</table>
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
+![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
